@@ -1,4 +1,4 @@
-# mpu_6050_stm32_HAL
+# mpu_6050_stm32_HAL_not_filtered
 
 An working mpu6050 program with HAL_Transmision for virtual port 
 
